@@ -1,0 +1,48 @@
+{
+  "contact_information": {
+    "name": "",
+    "email": "",
+    "phone": "",
+    "address": ""
+  },
+  "professional_summary": "",
+  "work_experience": [
+    {
+      "company": "",
+      "position": "",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "responsibilities": [
+        ""
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "",
+      "degree": "",
+      "location": "",
+      "graduation_year": ""
+    }
+  ],
+  "skills": [
+    ""
+  ],
+  "certifications": [
+    {
+      "name": "",
+      "issuing_organization": "",
+      "issue_date": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "",
+      "description": "",
+      "technologies": [
+        ""
+      ]
+    }
+  ]
+}
